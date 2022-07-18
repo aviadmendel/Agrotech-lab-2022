@@ -8,10 +8,13 @@ The idea behind our project is to create an automatic system that assures that t
 
 All of the above was combined using an SHT31 sensor, water pump and sprinklers that were connected to an ESP32 - a standalone system that can also connect to wifi and upload data online.
 
-To see our Arduino code use the next link - 
+To see our Arduino code use the next link - https://github.com/Ruthyitzhaki/Agrotech-lab-2022/blob/main/arduino-sketch/main_server_and_thingspeak.ino
 
-To see our full report with more data, explanations and relevant graphs use the next link - 
+To see our full report with more data, explanations and relevant graphs use the next link - https://github.com/Ruthyitzhaki/Agrotech-lab-2022/blob/main/report/report.ipynb
+
 
 Cheers,
+
 Ruth, Peleg and Aviad
+
 The Faculty of agriculture
